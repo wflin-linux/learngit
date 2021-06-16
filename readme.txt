@@ -4,4 +4,4 @@ git is free software distributed under the GPL.
 
 git has a mutable index called stage.dsafa
 
-wo shi ni da ye
+wo shi ni da ye ni yong yuan de 大爷
