@@ -7,4 +7,5 @@ git has a mutable index called stage.dsafa
 wo shi ni da ye ni yong yuan de 大爷
 
 
-creating a new branch is quck
+creating a new branch is quck 
+creating a new branch is quick & simple.
